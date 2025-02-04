@@ -8,4 +8,4 @@ Weights and values of each item.
 Dynamic Programming:
 A 2D dp array is used where dp[i][w] represents the maximum value achievable with the first i items and capacity w.
 If the item's weight exceeds the current capacity, it is excluded. Otherwise, the value is calculated by including or excluding the item.
-Output: The maximum value that can be achieved.
+Output: The maximum value that can be achieved...
